@@ -28,11 +28,11 @@ To run the unit tests and validate the functionality of the `merge` function, us
    npm test
 
 ## Project Structure
-'merge.ts': Contains the implementation of the merge function.
-'merge.test.ts': Contains the unit tests for the merge function.
-'package.json & package-lock.json': List and lock the project dependencies.
-'tsconfig.json': Contains the TypeScript compiler options.
-'jest.config.js': Contains the Jest testing framework configuration.
+1. 'merge.ts': Contains the implementation of the merge function.
+2. 'merge.test.ts': Contains the unit tests for the merge function.
+3. 'package.json & package-lock.json': List and lock the project dependencies.
+4. 'tsconfig.json': Contains the TypeScript compiler options.
+5. 'jest.config.js': Contains the Jest testing framework configuration.
 
 ## Questions or Feedback
 For any questions or feedback, please contact the project maintainer at 'ruk.rossukhon@gmail.com'.
