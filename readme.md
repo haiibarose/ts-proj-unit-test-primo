@@ -24,7 +24,7 @@ Follow these steps to set up your development environment:
 
 ## Running Tests
 To run the unit tests and validate the functionality of the `merge` function, use the following command:
-   ```sh
+1. ```sh
    npm test
 
 ## Project Structure
